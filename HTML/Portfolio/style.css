@@ -1,0 +1,35 @@
+body {
+    background-color: #fafafa;
+    font-family: sans-serif;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+ul li {
+    margin: 5px;
+}
+
+ul li i {
+    margin-right: 4px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: center;
+}
+
+
+.oooo{
+    border: 10px groove rgb(232, 69, 69);
+}
